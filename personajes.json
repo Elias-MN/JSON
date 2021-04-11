@@ -12,7 +12,6 @@
 					"titulo" : "Homer barman",
 					"id" : 25
 				}
-				//...
 			],
 			"imagen" : "https://i.pinimg.com/originals/ca/47/aa/ca47aa2a049d77f66569190260f79652.png"
 		},
@@ -28,10 +27,8 @@
 					"titulo" : "Bart en problemas",
 					"id" : 201
 				}
-				//...
 			],
 			"imagen" : "https://static.wikia.nocookie.net/lossimpson/images/6/65/Bart_Simpson.png/revision/latest/top-crop/width/360/height/450?cb=20100530014756&path-prefix=es"
 		}
-		//...
 	]
 }
