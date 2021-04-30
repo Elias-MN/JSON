@@ -9,7 +9,7 @@
 			"estado" :  
 				{
 				"nombre" : "soleado",
-				"icono" : "./imagenes/icons8-summer-50.png"
+				"icono" : "urlWeb"
 				}				
 		},
 		{
@@ -19,8 +19,8 @@
 			"humedad" : 20,
 			"estado" :  
 				{
-				"nombre" : "parcialmente nublado",
-				"icono" : "./imagenes/icons8-partly-cloudy-day-50.png"
+				"nombre" : "nublado",
+				"icono" : "urlWeb"
 				}				
 		},
 		{
@@ -30,8 +30,8 @@
 			"humedad" : 64,
 			"estado" :  
 				{
-				"nombre" : "nublado",
-				"icono" : "./imagenes/icons8-partly-cloudy-day-50.png"
+				"nombre" : "truenos",
+				"icono" : "urlWeb"
 				}				
 		},
 		{
@@ -42,7 +42,7 @@
 			"estado" :  
 				{
 				"nombre" : "lluvia",
-				"icono" : "./imagenes/icons8-rain-50.png"
+				"icono" : "urlWeb"
 				}				
 		}
 	]
