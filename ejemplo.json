@@ -10,51 +10,51 @@
 	"catalogo" : {
 		"camisetas" : [
 			{
-				"tipo" : "manga corta",
+				"tipo" : "Manga corta",
 				"marca" : "Mike",
 				"tallas" : "S, M y L"
 			},
 			{
-				"tipo" : "manga larga",
+				"tipo" : "Manga larga",
 				"marca" : "Addidas",
 				"tallas" : "M y L"
 			},
 			{
-				"tipo" : "sin mangas",
+				"tipo" : "Sin mangas",
 				"marca" : "Gordan",
 				"tallas" : "M, L y XL"
 			}
 		],
 		"pantalones" : [
 			{
-				"tipo" : "cortos",
+				"tipo" : "Cortos",
 				"marca" : "Gordan",
 				"tallas" : "S, M y XL"
 			},
 			{
-				"tipo" : "cortos",
+				"tipo" : "Cortos",
 				"marca" : "Mike",
 				"tallas" : "S y M"
 			},
 			{
-				"tipo" : "largos",
+				"tipo" : "Largos",
 				"marca" : "Addidas",
 				"tallas" : "M y XL"
 			}
 		],
 		"zapatillas" : [
 			{
-				"deporte" : "baloncesto",
+				"deporte" : "Baloncesto",
 				"marca" : "Gordan",
 				"tallas" : "41, 43 y 45"
 			},
 			{
-				"deporte" : "futbol",
+				"deporte" : "Futbol",
 				"marca" : "Messirve",
 				"tallas" : "40, 41 y 42"
 			},
 			{
-				"deporte" : "baloncesto",
+				"deporte" : "Baloncesto",
 				"marca" : "Mike",
 				"tallas" : "44, 45 y 46"
 			}
